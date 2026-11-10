@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 柳晓黑胡椒</h1>
-<h3 align="center">后端工程师 · 系统架构 · AI Native 探索者</h3>
+<h3 align="center">gis全栈工程师 · 系统架构 · AI Native 探索者</h3>
 
 <p align="center">
 一个热爱探索、追求自由、专注构建长期价值的软件工程师
@@ -15,7 +15,7 @@
 - 🌱 Exploring **AI Native / AIGC & Embedded Intelligence**  
 - 👯 Open to collaboration on **Fandcode**  
 - 💬 Ask me about **Java Backend · Spring Cloud · Distributed Systems · Smart Home Architecture**  
-- 📫 Reach me at **laiyi7757@gmail.com**  
+- 📫 Reach me at **liukun6356@gmail.com**  
 - ⚡ Interests: **Travel · DIY · Music · Creative Thinking · Making Hardware Come Alive**
 
 <br/>
