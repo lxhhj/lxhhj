@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm lxhhj</h1>
-<h3 align="center">全栈工程师(gis) · 系统架构 · AI Native 探索者</h3>
+<h3 align="center">全栈工程师(gis) · 系统架构 · AI Native 探索者 · 产品生意人</h3>
 
 <p align="center">
 一个热爱探索、追求自由、专注构建长期价值的软件工程师
